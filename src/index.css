@@ -1,13 +1,16 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&family=Jua&family=Jura:wght@700&family=Kadwa:wght@700&family=Kameron&display=swap');
+
+* {
+  box-sizing: border-box; 
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  max-height: 100vh;
+  margin: 0;
+  background: rgba(89, 76, 76, 0.75);
+  backdrop-filter: blur(16.5px);
+  overflow: hidden;
 }
+

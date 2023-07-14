@@ -1,0 +1,37 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    height: auto;
+    padding: 300px 100px;
+    margin: 50px auto;
+    background-image: url('../CreatePage/assets/postCat.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submitButton {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #0069d9;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+  }

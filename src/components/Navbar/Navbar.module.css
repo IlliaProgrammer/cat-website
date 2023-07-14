@@ -1,0 +1,51 @@
+
+
+.wrapper {
+    background: rgba(89, 76, 76, 0.75);
+    backdrop-filter: blur(16.5px);
+    display: flex;
+    padding: 15px 40px;
+}
+
+.logoText {
+    color: rgba(0, 0, 0, 0.66);
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.39);
+    font-size: 26px;
+    font-family: Jua;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.logo {
+    font-size: 30px;
+    margin-top: 12px;
+    margin-left: 10px;
+    color: rgba(244, 134, 139, 0.46);
+    transform: rotate(30deg);
+    box-shadow: '0px 4px 4px rgba(244, 134, 139, 0.46)';
+}
+
+.navigation {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    color: #FFF;
+    font-size: 30px;
+    font-family: Jua;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: auto; /* Push the unordered list to the right */
+    align-items: center;
+    padding-right: 70px;
+}
+
+.link {
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 70px;
+    text-align: center;
+}

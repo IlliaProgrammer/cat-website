@@ -1,0 +1,41 @@
+.wrapper {
+    font-family: 'Roboto Slab', serif;
+	font-size: 1.2rem;
+	margin: 0;
+	padding: 1rem;
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+}
+
+.favs::before {
+	content: '';
+	width: 0.5rem;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 30%;
+	background: peachpuff;
+	z-index: -1;
+}
+
+.fav {
+	padding: 0.5rem 1.5rem 1rem;
+	border-radius: 1.5rem;
+	background: peachpuff;
+}
+
+.fav + .fav {
+	margin-top: 1rem;
+}
+
+::marker {
+	font-weight: 600;
+	color: tomato;
+	font-size: 1.8rem;
+}
+
+.category {
+    margin-left: 20px;
+    color: tomato;
+}

@@ -1,0 +1,52 @@
+.main {
+    color: #FFF;
+    text-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.24), 0px 4px 4px 0px rgba(0, 0, 0, 0.81);
+    font-size: 65px;
+    font-family: Jura;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 45%;
+    margin-top: 150px;
+}
+
+.mainCat {
+    height: 1000px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: -1;margin-top: 100px;
+    margin-left: 100px;
+    overflow: hidden;
+}
+
+.text {
+    color: #FFF;
+    font-size: 19px;
+    font-family: Kadwa;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 47%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+
+.button_text {
+    color: #FFF;
+    font-size: 25px;
+    font-family: Kadwa;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 0px 66px 0px 55px;
+    background: #000;
+    padding: 20px 45px;
+    text-decoration: none;
+    margin-left: 65%;
+}

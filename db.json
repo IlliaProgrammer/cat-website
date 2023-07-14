@@ -1,0 +1,171 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Why Do Cat Sleeps With Eyes Open?",
+      "content": "Their eyes may be open but they are surely sleeping alright! Do not be surprised by this ability of theirs. Remember how we established that it is important to specify the kind of sleep our cat is in to answer our question? Well, cats may choose to sleep with their eyes open when they are in a light sleep.",
+      "date": "02.03.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/cat-sleeps-with-eyes-open.png?resize=802%2C455",
+      "category": "Behaviour"
+    },
+    {
+      "id": 2,
+      "title": "Why Is My Cat So Attached To Me?",
+      "content": "A cat ever so attached to you from the get-go perhaps had a connection with you. The connection can be founded on various reasons that highly involves your cat's feelings towards you. Perhaps, your cat feels secure with you more than anyone else, that's why it has grown to become attached to you. ",
+      "date": "30.04.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/clingy-cat.png?resize=760%2C454",
+      "category": "Behaviour"
+    },
+    {
+      "id": 3,
+      "title": "Male vs Female Cats",
+      "content": "By default, female cats tend to be more temperamental. But, this is because of their maternal instincts. Unlike males who are more intent on pleasing their owners, female cats are more about caring for their kittens and reproducing. They may appear to be more detached from their owners than male cats.",
+      "date": "06.06.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/male-vs-female-cats.png?resize=761%2C513",
+      "category": "Breeds"
+    },
+    {
+      "id": 4,
+      "title": "How Big Will My Cat Get?",
+      "content": "Generally, kittens are considered as adult cats when they hit the 1 year age mark. However, not all cats are fully grown and developed by this time kittens will achieve a weight and length close to that of their full grown size between the ages of 9 months and 12 months.",
+      "date": "16.07.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/how-big-will-my-cat-get.png?resize=759%2C511",
+      "category": "Breeds"
+    },
+    {
+      "id": 5,
+      "title": "Best Canned Cat Food",
+      "content": "Most manufacturers offer multiple formulas which will leave you with unlimited options.  However, if you ask many pet owners and veterinarians, they will often recommend having wet canned food. Canned cat food offers great moisture content that is important for the proper digestion of nutrients and promotes your cats’ ideal body condition.",
+      "date": "22.07.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/Best-Canned-Cat-Food.png?resize=602%2C343",
+      "category": "Nutrition"
+    },
+    {
+      "id": 6,
+      "title": "Best Cat Litter",
+      "content": "The World’s Best Cat Litter Long Lasting Performance prides itself in helping to maintain and control the odor of your cats’ litter box. It is highly recommended and is used by many cat owners, as they are also attracted to the name of the brand. This formula is ideal for multi-cat homes and is known to be 99% dust-free.",
+      "date": "26.07.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/best-clumping-cat-litter.png?resize=654%2C484",
+      "category": "Nutrition"
+    },
+    {
+      "id": 7,
+      "title": "Cat Ingrown Claw",
+      "content": "Ingrown occur when nails aren’t kept in check. When the nails are not trimmed often, they grow long and can have the tendency to curl back – growing into the flesh. This is what makes it painful. The nail can also become damaged or split. It becomes a problem since it causes discomfort to our cats.",
+      "date": "11.09.2023",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/Cat-Ingrown-Claw.png?resize=699%2C462",
+      "category": "Health"
+    },
+    {
+      "id": 8,
+      "title": "Do Cats Get Headaches?",
+      "content": "Even though we are capable of saying things right away, we are also capable of a non-verbal form of communication. We can say “I’m having a headache” in ways more than one. But cats can’t do that. Perhaps a human headache may feel the same with that of a cat’s but the way we communicate it may be different.",
+      "date": "24.10.2022",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/Do-Cats-Get-Headaches.png?resize=605%2C399",
+      "category": "Health"
+    },
+    {
+      "id": 9,
+      "title": "Why Do Cats Have Tails?",
+      "content": "You have probably heard of the astonishing facts that cats always land with their feet. It is true! No matter how high or the position of the fall, the cat always finds a way to hit the ground with its legs underneath it. Unfortunately we can’t say the same for us humans. The tail acts as a counterweight when walking on the fence or doing that graceful leap from one countertop to the next.",
+      "date": "02.07.2023",
+      "imgUrl": "https://i0.wp.com/pawsomekitty.com/wp-content/uploads/Why-Do-Cats-Have-Tails.png?resize=674%2C456",
+      "category": "Health"
+    },
+    {
+      "title": "sdsdsd",
+      "imgUrl": "dsds",
+      "content": "dsdsds sdsds dsdsds dsdsds dsdsd sdsdsdd]sds ds']asd/]sds[] dsds dsds dssd dssdsdsds dsdsdsdssd dssds",
+      "category": "Breeds",
+      "date": "14.07.2023",
+      "id": 10
+    }
+  ],
+  "breeds": [
+    {
+      "id": 1,
+      "breed": "Ragdoll",
+      "shortInfo": "For the third year running, Ragdoll cats have taken the top spot as America’s most popular cat breed. Why? Well just look at that fluffy, long-haired coat, those milky-blue eyes and pointed color patterns!",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/88a75ebe-aa9e-45e0-9af5-00e201def1bb_common+breeds+of+cats.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 2,
+      "breed": "Maine Coon",
+      "shortInfo": "Maine Coons have EXTRA TOES. We aren’t pulling your paw – almost half are born with polydactyl, a condition which means they’re born with more toes than other cats",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/17327313-df3f-41cc-90f1-ea26b3f842dd_most+common+breeds+of+cats.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 3,
+      "breed": "Exotic Shorthair",
+      "shortInfo": "Ding ding, in at lucky number three are Exotic Shorthair cats – the pinched-face, googly-eyed cuties bred as short-haired versions of the Persian. These fluffballs wear a fur jacket that’s much easier to maintain.",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/654d6535-a560-41a3-8fe5-19e8b13f6788_common+cat+breeds+in+us.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 4,
+      "breed": "Devon Rex",
+      "shortInfo": "In at number five is the stand-up-eared, short-haired Devon Rex. We think they’re adorable (naturally), but their alien-like appearance can be a little divisive in the cat world! Looks aside, the Devon Rex makes a wonderful pet – they love to be around those they love.",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/8a5cc7f3-987e-44af-a9b0-dead7c969d2f_common+cats.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 5,
+      "breed": "British Shorthair",
+      "shortInfo": "Common cats like the British Shorthair are popular for their low-maintenance fur and teddy bear appearance. This fluffball is the pedigreed version of the traditional British domestic cat",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/56b930de-5711-476c-9099-a8a59bc5bd7a_common+american+cat+breeds.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 6,
+      "breed": "Abyssinian",
+      "shortInfo": "This beauty’s short hair reveals a slender, elegant form that’s madefor efficient fence hopping. So, where does the name come from? Well these cuties originate from Ethiopia, which was previously known as Abssinia.",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/88968d0b-0de3-4c5b-b96a-8f572c29f0a2_common+breeds+of+house+cats.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 7,
+      "breed": "American Shorthair",
+      "shortInfo": "American shorthair cats are thought to originate from the European cats that accompanied settlers in North America. Why? Well they were pretty skilled at protecting cargo from mice and rats.",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/3d0218f6-96b9-403f-8626-d6eedf2d249b_common+breeds+of+cat.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    },
+    {
+      "id": 8,
+      "breed": "Scottish Fold",
+      "shortInfo": "Their favorite pastime is hanging out with their humans, whether that’s playing games, chasing toys or kicking back for cuddles. Their loving nature isn’t the Scottish Fold’s most well-known feature though.",
+      "imageUrl": "https://images.prismic.io/trustedhousesitters/c6863015-f11d-4b4b-8026-8e7a7a87cc13_most+common+cat+types.jpg?auto=compress,format&rect=0,0,1920,800&w=1920&h=800"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Garfield",
+      "breed": "Abyssinian",
+      "date": "29.06.2022",
+      "imgUrl": "https://www.zootovary.com/getaimage/articles_description/5c3742b3cf908.jpg&w=320&h=320"
+    },
+    {
+      "id": 2,
+      "name": "Hamers",
+      "breed": "Neva Masquerade",
+      "date": "30.03.2023",
+      "imgUrl": "https://www.zootovary.com/getaimage/articles_description/5c374251efede.jpg&w=320&h=320"
+    },
+    {
+      "id": 3,
+      "name": "Flores",
+      "breed": "Abyssinian",
+      "date": "29.06.2022",
+      "imgUrl": "https://media.istockphoto.com/id/697932068/photo/black-cat-on-dark-background.jpg?s=170667a&w=0&k=20&c=mYu_ipSCZOiAN-6A8fpybV1xFgGpWCpI9OYZ-5le4cU="
+    },
+    {
+      "id": 4,
+      "name": "Ares",
+      "breed": "Ragdoll",
+      "date": "02.07.2023",
+      "imgUrl": "https://s1.best-wallpaper.net/wallpaper/m/2012/White-fluffy-cat-black-background_m.webp"
+    },
+    {
+      "id": 5,
+      "name": "Sandy",
+      "breed": "Ragamuffin",
+      "date": "16.10.2022",
+      "imgUrl": "https://zooclub.ambebi.ge/pictures/image3/252826bf7a1e0fc3510a871041d4980c.jpg"
+    }
+  ]
+}

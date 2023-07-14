@@ -1,0 +1,80 @@
+.container {
+    max-width: 1048px;
+    margin: 1em auto;
+    padding: 4em;
+    border-radius: 1em;
+    overflow-y: auto;
+    max-height: calc(100vh - 100px);
+  }
+  
+  section.cards {
+    background:#fffffff6;
+    margin: 0 auto;
+    display: grid;
+    grid-auto-flow: row dense;
+    grid-template-columns: repeat(3, 256px);
+    grid-gap: 50px;
+    padding:20px;  
+  }
+  
+
+  .load {
+    margin-top: 20px;
+  }
+
+  .container::-webkit-scrollbar {
+    background: transparent; /* Set the background color of the track */
+  }
+
+  .tabs {
+    margin-left: 20px;
+  }
+
+  .tab{
+    cursor: pointer;
+    padding:10px 20px;
+    margin:0px 2px;
+    background:#000;
+    display:inline-block;
+    color:#fff;
+    border-radius:3px 3px 0px 0px;
+    box-shadow: 0 0.5rem 0.8rem #00000080;
+  }
+
+  @keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+.activeTab {
+  background:#fffffff6;
+  color:#000;
+  border-top: 3px solid #000;
+}
+
+.more{
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.more button{
+  width: 200px;
+  margin: 0 auto;
+  background: #f3c703;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 10px;
+}
+
+.blogCat {
+  height: 85%;
+  position: fixed;
+  left: 1150px;
+  top: 200px;
+  z-index: -1;
+}
